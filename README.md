@@ -51,3 +51,7 @@ pip install playwright pillow && playwright install chromium   # capture-check�
 ```
 
 스크립트는 `~/.claude/scripts/`에 복사합니다. 감시 폴더는 스크립트 상단 `ROOT`에서 바꿀 수 있습니다.
+
+## 라이선스
+
+MIT
